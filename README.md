@@ -15,9 +15,9 @@ Take the following example:
 
 The first query argument is a Key/Value pair where the key is your personal name for a specific address (```KiddoCollegeFund```) and the value is the address itself (```0x29BBE4a7960fef776C9f1a8a2055Aa551D91a1B9```).
 
-You can also simply list a bare address (```0x29BBE4a7960fef776C9f1a8a2055Aa551D91a1B9&0```).
+You can also simply list a bare address (```0x29BBE4a7960fef776C9f1a8a2055Aa551D91a1B9```).
 
-Last but not least you can list an optional url fragment which will bring focus to a specific wallet address as well as add it to the avialable wallet list if it isn't already specified (```#0x29BBE4a7960fef776C9f1a8a2055Aa551D91a1B9&0```).
+Last but not least you can list an optional url fragment which will bring focus to a specific wallet address as well as add it to the avialable wallet list if it isn't already specified (```#0x29BBE4a7960fef776C9f1a8a2055Aa551D91a1B9```).
 
 # Security
 
