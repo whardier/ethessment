@@ -28,4 +28,4 @@ This program only looks at publically available information and will never ask y
 
 # Links
 
-Me: https://whardier.github.io/whardier/
+Me: https://whardier.github.io/
