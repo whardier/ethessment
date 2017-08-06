@@ -1,4 +1,4 @@
-# Ethessment
+# IceBox
 
 Icebox is a simple client side client that can view public cryptocoin wallet information and compare the holdings with several open exchange APIs. It shows a current snapshot of your cryptocoins and tokens against a quote currency.
 
